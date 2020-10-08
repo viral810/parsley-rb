@@ -1,8 +1,6 @@
 # ParsleyFormObject
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/parsley_form_object`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Form objects made simple for rails applications. A useful object with helpers to implement form object interface.
 
 ## Installation
 
@@ -32,9 +30,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/parsley_form_object. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/parsley_form_object/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/viral810/parsley_form_object. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/viral810/parsley_form_object/blob/master/CODE_OF_CONDUCT.md).
 
 
 ## Code of Conduct
 
-Everyone interacting in the ParsleyFormObject project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/parsley_form_object/blob/master/CODE_OF_CONDUCT.md).
+Everyone interacting in the ParsleyFormObject project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/viral810/parsley_form_object/blob/master/CODE_OF_CONDUCT.md).
